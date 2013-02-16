@@ -1,1 +1,12 @@
 *~
+
+# auto generated files when a texi converts to pdf.
+*.aux
+*.cp
+*.fn
+*.ky
+*.pdf
+*.pg
+*.toc
+*.tp
+*.vr
